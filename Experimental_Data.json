@@ -1,0 +1,17 @@
+[
+  {
+    "context": "Aspirin is commonly used as an antipyretic to reduce fever. Ibuprofen is a nonsteroidal anti-inflammatory drug often used to relieve pain. Antibiotics are designed to target bacterial infections, not viral ones. Paracetamol is widely used as an antipyretic to reduce fever. Vitamin C may help reduce the duration of cold symptoms but is not considered a cure.",
+    "question": "Is vitamin C a cure for the common cold?",
+    "answer": "no"
+  },
+  {
+    "context": "Aspirin is commonly used as an antipyretic to reduce fever. Ibuprofen is a nonsteroidal anti-inflammatory drug often used to relieve pain.",
+    "question": "Does aspirin reduce fever?",
+    "answer": "yes"
+  },
+  {
+    "context": "Patient is taking antibiotics but still has mild fever.",
+    "question": "Should the patient change medication?",
+    "answer": "maybe"
+  }
+]
